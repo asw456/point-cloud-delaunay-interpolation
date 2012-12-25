@@ -1,13 +1,101 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+*.class
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# package files #
+*.jar
+*.war
+*.ear
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+# eclipse files
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# external tool builders
+.externalToolBuilders/
+
+# locally stored "eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# maven
+target/
+
+# directories #
+/build/
+/bin/
+/lib/
+target/
+ 
+# OS files #
+.DS_Store
+ 
+*.class
+ 
+# package files #
+*.jar
+*.war
+*.ear
+*.db
+ 
+# Windows image file caches
+Thumbs.db 
+ 
+# folder config file
+Desktop.ini
+ 
+# OSX
+.DS_Store
+.svn
+ 
+# thumbnails
+._*
+ 
+# files that might appear on external disk
+.Spotlight-V100
+.Trashes
+ 
+ 
+# eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+/src/main/resources/rebel.xml
+
+# external tool builders
+.externalToolBuilders/
+ 
+# locally stored "Eclipse launch configurations"
+*.launch
+ 
+# CDT-specific
+.cproject
+ 
+# PDT-specific
+.buildpath
