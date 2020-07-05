@@ -8,3 +8,4 @@ The method uses Delaunay triangulation and an efficient search to find the trian
 Originally written to digitize wind tunnel pressure charts for calculating uplift forces on a large warehouse in Queensland.
 
 ![Example Surface](/surface_all1.png)
+![Example Surface](/beams_all2.png)
